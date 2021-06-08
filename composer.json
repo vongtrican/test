@@ -1,0 +1,11 @@
+{
+    "name": "lampart/foobar",
+    "description": "for testing - DO NOT COMMIT!!!",
+    "authors": [
+        {
+            "name": "can",
+            "email": "vongtrican@gmail.com"
+        }
+    ],
+    "require": {}
+}
